@@ -8,3 +8,10 @@
   display: table;
   clear: both;
   }
+#desc {
+  color:#6d6e70;
+  font-family:'Calibri', sarif;
+  font-size:16pt;
+  padding-left:50px;
+  padding-right:50px;
+  }
