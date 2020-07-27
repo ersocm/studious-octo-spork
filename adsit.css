@@ -1,4 +1,4 @@
- .main .header .desc .pol .footer {
+ .main, .header, .desc, .pol, .footer {
       margin:0;
       border:1px solid #000;
       color:#fff;
