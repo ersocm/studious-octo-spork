@@ -1,17 +1,5 @@
-@media only screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-    
-    #lcol:after,#rcol:after {
-      content: "";
-  display: table;
-  clear: both;
-  }
-#desc {
-  color:#6d6e70;
-  font-family:'Calibri', sarif;
-  font-size:16pt;
-  padding-left:50px;
-  padding-right:50px;
-  }
+ .main .header .desc .pol .footer {
+      margin:0;
+      border:1px solid #000;
+      color:#fff;
+    }
