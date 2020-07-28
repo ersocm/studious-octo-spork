@@ -1,5 +1,24 @@
  .main, .header, .desc, .pol, .footer {
       margin:0;
       border:1px solid #000;
-      color:#fff;
     }
+
+.main {
+ background:#fff;
+}
+.header {
+ background:#181a1b;
+ padding:10px;
+}
+
+.desc {
+ color:#494d50;
+}
+
+.pol {
+ color:#494d50;
+}
+
+.footer {
+ background:#6d6e70;
+}
