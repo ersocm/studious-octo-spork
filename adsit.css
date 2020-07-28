@@ -21,10 +21,17 @@
 
 .pol {
  color:#494d50;
+ display:flex;
+ align-items: center;
+ justify-content: center;
+ 
 }
 
 .footer {
  background:#6d6e70;
+ display:flex;
+ align-items: center;
+ justify-content: center;
 }
 
 #policies {
