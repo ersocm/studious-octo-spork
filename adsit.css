@@ -22,3 +22,10 @@
 .footer {
  background:#6d6e70;
 }
+
+h2 {
+ font-family: 'Staatliches', Tahoma, sans-sarif;
+ font-size: 18px;
+ color:#19c0dc;
+ padding:none;
+}
