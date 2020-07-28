@@ -24,7 +24,7 @@
  background:#6d6e70;
 }
 
-#policies {
+.pol > #policies {
  border:none;
  margin-auto;
  width:85%;
