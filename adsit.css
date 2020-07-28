@@ -24,13 +24,13 @@
  background:#6d6e70;
 }
 
-.pol > #policies {
+#policies {
  border:none;
  margin:auto;
  width:85%;
 }
 
-.pol > .tab {
+.tab {
  background-color: #19c0dc;
  font-family: Calibri,sarif;
  color:#ffffff;
@@ -40,7 +40,7 @@
  margin-top:15px;
 }
 
-.pol > .poldesc {
+.poldesc {
  background-color: #ffffff;
  font-family: Calibri,sarif;
  color:#181a1b;
