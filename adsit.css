@@ -25,7 +25,7 @@
 }
 
 #policies {
- border:none;
+ border:.5px dotted green;
  margin:auto;
  width:85%;
 }
