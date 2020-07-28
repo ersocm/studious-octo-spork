@@ -6,6 +6,7 @@
 .main {
  background:#fff;
 }
+
 .header {
  background:#181a1b;
  padding:10px;
@@ -29,7 +30,7 @@
  width:85%;
 }
 
-th.tab {
+.tab {
  background-color: #19c0dc;
  font-family: Calibri,sarif;
  color:#ffffff;
@@ -39,7 +40,7 @@ th.tab {
  margin-top:15px;
 }
 
-td.poldesc {
+.poldesc {
  background-color: #ffffff;
  font-family: Calibri,sarif;
  color:#181a1b;
