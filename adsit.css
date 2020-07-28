@@ -39,7 +39,7 @@ th.tab {
  margin-top:15px;
 }
 
-#policies > td {
+td.poldesc {
  background-color: #ffffff;
  font-family: Calibri,sarif;
  color:#181a1b;
